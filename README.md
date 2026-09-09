@@ -2,15 +2,15 @@
 <h3 align="center">Data Analyst | Credit Portfolio Analytics | BI & Automation</h3>
 
 <p align="center">
-  Currently working at Kapital Bank as a Credit Portfolio Analytics & Collections Strategy Analyst. Previously Data Analyst at Arrow Electronics (remote). Passionate about turning raw data into actionable insights using SQL, Python, Power BI, Tableau, and Dataiku.
+  Passionate about turning raw data into actionable insights using SQL, Python, Power BI, Tableau, and Dataiku.
 </p>
 
 - 🔭 Currently working on **credit portfolio analytics and collections strategy at Kapital Bank**
 - 🌱 Currently developing skills in **data modeling, forecasting, and Dataiku DSS**
 - 📝 I regularly write articles on [Academia.edu](https://independent.academia.edu/AbdullaAbdullayev27)
 - 📫 How to reach me: **abdulla62abdullayev@gmail.com**
-- 🎓 Master's in International Business — WSB Academy, Poland
-- 🌍 Languages: Azerbaijani, English, Turkish
+- 🎓 MSc International Business — WSB Academy, Poland | BSc Management — ASUE, Azerbaijan
+- 🌍 Languages: Azerbaijani (Native) | English (C1) | Turkish (C1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
