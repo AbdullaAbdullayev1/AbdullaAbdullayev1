@@ -9,7 +9,7 @@
 - 🌱 Currently developing skills in **data modeling, forecasting, and Dataiku DSS**
 - 📝 I regularly write articles on [Academia.edu](https://independent.academia.edu/AbdullaAbdullayev27)
 - 📫 How to reach me: **abdulla62abdullayev@gmail.com**
-- 🎓 MSc International Business — WSB Academy, Poland | BSc Management — ASUE, Azerbaijan
+- 🎓 MSc International Business — WSB Academy, Poland | BSc Management — UNEC, Azerbaijan
 - 🌍 Languages: Azerbaijani (Native) | English (C1) | Turkish (C1)
 
 <h3 align="left">Connect with me:</h3>
@@ -31,6 +31,7 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/></a>
   <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/></a>
+  <a href="https://www.dataiku.com/" target="_blank"><img src="https://img.icons8.com/color/48/dataiku.png" width="40" height="40"/></a>
 </p>
 
 <p align="left">
