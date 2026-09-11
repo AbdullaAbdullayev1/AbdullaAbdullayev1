@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdulla Abdullayev</h1>
+<h1 align="center">Hello everyone 👋, I'm Abdulla Abdullayev</h1>
 <h3 align="center">Data Analyst | Credit Portfolio Analytics | BI & Automation</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:abdulla62abdullayev@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulla62abdullayev@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/abdulla-abdullayev-49261125a" target="_blank">
