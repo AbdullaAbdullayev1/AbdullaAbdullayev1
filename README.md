@@ -38,5 +38,9 @@
 </p>
 
 <p align="left">
+  ## 📌 Featured
+
+- 📄 [My Resume](https://github.com/AbdullaAbdullayev1/resume)
+- 📊 [Bemobi — LTV/CAC Forecasting Project](https://github.com/AbdullaAbdullayev1/bemobi-ltv-cac-forecasting)
   <img src="https://komarev.com/ghpvc/?username=abdullaabdullayev1&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
