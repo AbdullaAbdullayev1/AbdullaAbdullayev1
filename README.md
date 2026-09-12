@@ -45,6 +45,4 @@
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulla62abdullayev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdulla-ab
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-
