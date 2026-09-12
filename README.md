@@ -45,4 +45,20 @@
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulla62abdullayev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulla-abdullayev-49261125a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/a6dul1_a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
+  </a>
+</p>
+
+📧 abdulla62abdullayev@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/abdulla-abdullayev-49261125a) &nbsp;|&nbsp; 📸 [Instagram](https://instagram.com/a6dul1_a)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullaabdullayev1&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
