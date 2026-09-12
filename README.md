@@ -55,9 +55,7 @@
   </a>
 </p>
 
-📧 abdulla62abdullayev@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/abdulla-abdullayev-49261125a) &nbsp;|&nbsp; 📸 [Instagram](https://instagram.com/a6dul1_a)
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullaabdullayev1&label=Profile%20views&color=0e75b6&style=flat" />
