@@ -21,7 +21,7 @@
 
 - 📄 [My Resume](https://github.com/AbdullaAbdullayev1/resume)
 - 📊 [Bemobi — LTV/CAC Forecasting Project](https://github.com/AbdullaAbdullayev1/bemobi-ltv-cac-forecasting)
-- 🗃️ [SQL Portfolio](https://github.com/AbdullaAbdullayev1/sql-portfolio)
+- 🗃️ [SQL Portfolio](https://github.com/AbdullaAbdullayev1/ql-portfolio)
 
 ---
 
@@ -54,8 +54,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
   </a>
 </p>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullaabdullayev1&label=Profile%20views&color=0e75b6&style=flat" />
