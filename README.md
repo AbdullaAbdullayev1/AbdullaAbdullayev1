@@ -32,7 +32,7 @@
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://devicon-website.web.app/api/pandas/original.svg" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/></a>
   <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/></a>
   <a href="https://www.dataiku.com/" target="_blank"><img src="https://img.icons8.com/color/48/dataiku.png" width="40" height="40"/></a>
@@ -57,5 +57,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullaabdullayev1&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbdullaAbdullayev1.AbdullaAbdullayev1&unique=true" alt="Profile Views" />
 </p>
