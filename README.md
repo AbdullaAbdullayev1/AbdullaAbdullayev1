@@ -21,7 +21,8 @@
 
 - 📄 [My Resume](https://github.com/AbdullaAbdullayev1/resume)
 - 📊 [Bemobi — LTV/CAC Forecasting Project](https://github.com/AbdullaAbdullayev1/bemobi-ltv-cac-forecasting)
-- 🚗 [UK Traffic Safety & Accident Analytics Dashboard](https://github.com/AbdullaAbdullayev1/uk-road-safety-dashboard)
+- 👥 [HR Analytics & Headcount Dashboard *(Power BI)*](https://github.com/AbdullaAbdullayev1/powerbi-hr-analyst-dashboard)
+- 🚗 [UK Traffic Safety & Accident Analytics Dashboard *(Tableau)*](https://github.com/AbdullaAbdullayev1/uk-road-safety-dashboard)
 - 🗃️ [SQL Portfolio](https://github.com/AbdullaAbdullayev1/ql-portfolio)
 
 ---
